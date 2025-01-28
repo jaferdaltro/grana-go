@@ -41,6 +41,12 @@ gem "thruster", require: false
 
 gem "dockerfile-rails", ">= 1.7", group: :development
 
+gem "chartkick", "~> 5.1", ">= 5.1.2"
+
+gem "groupdate", "~> 6.5", ">= 6.5.1"
+
+gem "devise", "~> 4.9", ">= 4.9.4"
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
