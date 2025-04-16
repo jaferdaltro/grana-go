@@ -41,7 +41,7 @@ gem "thruster", require: false
 
 gem "dockerfile-rails", ">= 1.7", group: :development
 
-gem "chartkick", "~> 5.1", ">= 5.1.2"
+gem "chartkick", "~> 5.1"
 
 gem "groupdate", "~> 6.5", ">= 6.5.1"
 
